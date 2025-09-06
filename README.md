@@ -1,4 +1,4 @@
-📚 **Library Management Program**
+# 📚 Library Management Program
 
 A simple Python project for managing books **in memory**. You can add, delete, search, and view books while the program is running, but data is **not saved** after the program exits.
 
